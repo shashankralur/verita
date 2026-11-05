@@ -7,8 +7,10 @@ const HomePage = () => {
             <Container>
                 <Row>
                     <Col xs={12}>
-                        <div className="homepage-content text-center mt-40">
-                            <h1>Complete AI Tester | Create Bugs free app</h1>
+                        <div className="homepage-content text-center mt-60">
+                            <h1>
+                                <span className='border'>Complete AI Tester | Create Bugs free app</span>
+                            </h1>
                         </div>
                     </Col>
                 </Row>

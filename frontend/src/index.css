@@ -4,10 +4,11 @@ body{
 }
 
 .custom-navbar{
-  background-color: #f8f9fa;
+  background-color: #fff;
   padding: 1rem;
+  box-shadow: 2px 2px 2px #0000000f;
 }
 
 .logotext{
-  color: #309d4b;
+  color: #194ff2;
 }
