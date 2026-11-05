@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+}
+
+.custom-navbar{
+  background-color: #f8f9fa;
+  padding: 1rem;
+}
+
+.logotext{
+  color: #309d4b;
+}
