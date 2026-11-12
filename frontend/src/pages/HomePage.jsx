@@ -9,7 +9,7 @@ const HomePage = () => {
                     <Col xs={12}>
                         <div className="homepage-content text-center mt-60">
                             <h1>
-                                <span className='border'>Complete AI Tester | Create Bugs free app</span>
+                                <span >Complete AI Tester | Create Bugs free app</span>
                             </h1>
                         </div>
                     </Col>
